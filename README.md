@@ -10,3 +10,7 @@ For this project, I used a photoresistor to control an LED automatically. I init
 
 ## Images
 
+<p align="center">
+  <img src="images/circuit.JPG" height="400px" style="margin-right: 20px;">
+  <img src="images/demo.gif" height="400px">
+</p>
